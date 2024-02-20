@@ -1,0 +1,12 @@
+[submodule "ModernGraphicsAPI/Libs/glfw"]
+	path = ModernGraphicsAPI/Libs/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "ModernGraphicsAPI/Libs/glm"]
+	path = ModernGraphicsAPI/Libs/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "ModernGraphicsAPI/Libs/stb"]
+	path = ModernGraphicsAPI/Libs/stb
+	url = https://github.com/nothings/stb.git
+[submodule "ModernGraphicsAPI/Libs/tinyobjloader"]
+	path = ModernGraphicsAPI/Libs/tinyobjloader
+	url = https://github.com/tinyobjloader/tinyobjloader.git
